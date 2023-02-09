@@ -1,0 +1,9 @@
+[submodule "cipulot_kicad_parts"]
+	path = cipulot_kicad_parts
+	url = https://github.com/Cipulot/cipulot_kicad_parts.git
+[submodule "acheron_Components.pretty"]
+	path = acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
+[submodule "acheron_Symbols"]
+	path = acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols.git

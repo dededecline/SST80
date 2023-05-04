@@ -10,7 +10,7 @@
 - RP2040 processor
 - MX and Alps compatible
 - Indicator light positions for Caps Lock, Esc and Scroll Lock
-- Universal TKL PCB support (H87C, H88C, Apollo etc.)
+- Universal TKL PCB support (H87C, H88C, Apollo etc. North facing spacebar)
 - USB-C or Unified Daughterboard (or equivalent with the same pinout.)
 - Overcurrent and ESD protection
 

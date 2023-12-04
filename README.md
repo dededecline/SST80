@@ -3,7 +3,7 @@
 ## Fully open source multi-layout 80% (TKL) PCB
 
 ## Layout support
-![KLE](https://github.com/dededecline/SST80/blob/main/Images/Layout-KLE.jpg)
+![KLE](Images/Layout-KLE.jpg)
 
 ## Features
 - RGB Underglow
